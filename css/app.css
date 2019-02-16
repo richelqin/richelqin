@@ -1,0 +1,38 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	text-align: center;
+	margin: auto;
+	background-color: #EDFBFF;
+	color: #354378;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 50px;
+	padding-bottom: 5%;
+}
+
+p {
+	font-size: 16px;
+	line-height: 18px;
+}
+
+p:last-child {
+	padding-top: 10px;
+}
+
+section {
+	width: 50vw;
+	vertical-align: middle;
+	margin: 20% auto;
+}
+
+a {
+	color: #629FB3;
+}
+
+a:hover {
+	color: #677ACF;
+}
